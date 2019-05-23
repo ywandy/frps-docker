@@ -7,7 +7,7 @@ email: yewei_andy@163.com
 
 
 
-**封装各种版本的frpc**
+**封装各种版本的frps**
 
 
 
